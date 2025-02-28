@@ -124,7 +124,7 @@ function App() {
               <Award className="w-8 h-8 text-emerald-400 flex-shrink-0" />
               <div>
                 <h3 className="text-xl font-bold mb-2">LJ University</h3>
-                <p className="text-gray-400">Diploma in AML</p>
+                <p className="text-gray-400">Diploma in AIML</p>
               </div>
             </div>
             <div className="flex items-start space-x-4">
