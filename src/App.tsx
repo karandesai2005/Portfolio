@@ -34,7 +34,7 @@ function App() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold mb-8 text-center">About Me</h2>
           <p className="text-gray-400 leading-relaxed mb-8">
-            I'm a tech enthusiast pursuing a BTech in Computer Science & Engineering with a specialization in Cybersecurity at Symbiosis Institute of Technology. I also hold a Diploma in AML from LJ University. I'm passionate about bridging the gap between technology and society by sharing knowledge, mentoring others, and contributing to open-source communities.
+            I'm a tech enthusiast pursuing a BTech in Computer Science & Engineering with a specialization in Cybersecurity at Symbiosis Institute of Technology. I also hold a Diploma in AIML from LJ University. I'm passionate about bridging the gap between technology and society by sharing knowledge, mentoring others, and contributing to open-source communities.
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
             <div className="p-4 border border-emerald-500/20 rounded-lg hover:border-emerald-500/40 transition-colors">
@@ -143,13 +143,13 @@ function App() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold mb-8">Get In Touch</h2>
           <div className="flex justify-center space-x-6 mb-8">
-            <a href="#" className="text-gray-400 hover:text-emerald-400 transition-colors">
+            <a href="https://github.com/karandesai2005" className="text-gray-400 hover:text-emerald-400 transition-colors">
               <Github className="w-8 h-8" />
             </a>
-            <a href="#" className="text-gray-400 hover:text-emerald-400 transition-colors">
+            <a href="https://github.com/karandesai2005" className="text-gray-400 hover:text-emerald-400 transition-colors">
               <Linkedin className="w-8 h-8" />
             </a>
-            <a href="mailto:contact@karandesai.com" className="text-gray-400 hover:text-emerald-400 transition-colors">
+            <a href="mailto:karanishudesai2@gmail.com" className="text-gray-400 hover:text-emerald-400 transition-colors">
               <Mail className="w-8 h-8" />
             </a>
           </div>
